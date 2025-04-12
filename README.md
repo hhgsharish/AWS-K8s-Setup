@@ -16,4 +16,5 @@ Once completed, run this command in Master node
     kubectl get nodes 
     
 **To Destroy**
+    
     terraform destroy 
